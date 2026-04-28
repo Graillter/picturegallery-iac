@@ -56,8 +56,8 @@ name    =  "sqlserverhongretimothee" # add your name to make it unique. Can only
 
 location    =  var.location 
 resource_group_name  =  var.rg_name  
-administrator_login   =  "adminformation" 
-administrator_password =  "formationCodingGame0!"
+administrator_login   =  "hongreadmin" 
+administrator_password =  "hongreadminpassword"
  sku_name =  "B_Standard_B1ms" 
  version =  "8.0.21" 
  geo_redundant_backup_enabled = false 
